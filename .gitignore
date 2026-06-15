@@ -50,3 +50,13 @@ Thumbs.db
 # Publish Web output #
 ######################
 PublishProfiles/
+
+# Coding Agents #
+#################
+
+AGENTS.md
+.claude/
+.gemini/
+.agents/
+.agent/
+.qwen/
